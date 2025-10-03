@@ -25,7 +25,6 @@ def recomendar(dados: PratoInput):
     
     df = pd.DataFrame([dados.dict()])
 
-    
     df["DIA_SEMANA_ENCODER"] = encoder_dia_semana.transform(df[["DIA_SEMANA"]])
     df["COMPLEXIDADE_MAX_ENCODER"] = encoder_complexidade.transform(df[["COMPLEXIDADE_MAX"]])
 
