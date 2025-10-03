@@ -1,0 +1,101 @@
+ID_OBSERVACAO,DIA_SEMANA,PROTEINA_ONTEM,NATURALIDADE,COMPLEXIDADE_MAX,E_FIM_SEMANA,PRATO_RECOMENDADO,FUNGE_SIM_NAO
+1,Segunda,Carne Vaca,Benguela,Baixa,0,Feijão de Óleo de Palma,0
+2,Quarta,Peixe,Huíla,Média,0,Muamba de Galinha,1
+3,Sábado,Carne Seca,Luanda,Alta,1,Mufete,0
+4,Sexta,Frango,Zaire,Baixa,0,Funge com Quizaca,1
+5,Quinta,Feijão,Malanje,Média,0,Marrabenta de Peixe,1
+6,Domingo,Peixe,Benguela,Alta,1,Calulu de Peixe Fresco,1
+7,Terça,Miúdos,Luanda,Média,0,Muamba de Galinha,1
+8,Sábado,Carne Vaca,Zaire,Alta,1,Fumbua (Tradicional),1
+9,Quinta,Carne Vaca,Huíla,Baixa,0,Funge com Kizaca,1
+10,Terça,Frango,Malanje,Baixa,0,Funge com Quizaca,1
+11,Quarta,Peixe,Luanda,Média,0,Calulu de Peixe Seco,1
+12,Segunda,Frango,Benguela,Baixa,0,Feijão de Óleo de Palma,0
+13,Sexta,Feijão,Zaire,Média,0,Fumbua (Simples),1
+14,Domingo,Muamba,Malanje,Alta,1,Guisado de Cabrito (Elaborado),1
+15,Quinta,Peixe,Huíla,Média,0,Guisado de Cabrito (Simples),1
+16,Terça,Carne Seca,Luanda,Média,0,Funge com Quizaca,1
+17,Sábado,Peixe,Zaire,Alta,1,Fumbua (Tradicional),1
+18,Quarta,Frango,Benguela,Baixa,0,Feijão de Óleo de Palma,0
+19,Segunda,Miúdos,Malanje,Média,0,Marrabenta de Peixe,1
+20,Sexta,Carne Vaca,Huíla,Média,0,Muamba de Galinha,1
+21,Quinta,Frango,Luanda,Média,0,Muamba de Galinha,1
+22,Domingo,Peixe,Luanda,Média,1,Funge com Peito Alto,1
+23,Terça,Feijão,Zaire,Baixa,0,Feijão de Óleo de Palma,0
+24,Quarta,Carne Seca,Malanje,Baixa,0,Funge com Quizaca,1
+25,Sábado,Carne Vaca,Benguela,Alta,1,Caldeirada de Marisco,0
+26,Segunda,Peixe,Huíla,Baixa,0,Funge com Kizaca,1
+27,Quinta,Frango,Zaire,Média,0,Fumbua (Simples),1
+28,Sexta,Peixe,Luanda,Baixa,0,Feijão de Óleo de Palma,0
+29,Domingo,Carne Vaca,Malanje,Alta,1,Guisado de Cabrito (Elaborado),1
+30,Terça,Frango,Benguela,Média,0,Calulu de Peixe Fresco,1
+31,Quarta,Feijão,Huíla,Média,0,Muamba de Galinha,1
+32,Sábado,Peixe,Luanda,Alta,1,Mufete,0
+33,Quinta,Miúdos,Malanje,Baixa,0,Funge com Quizaca,1
+34,Segunda,Carne Seca,Zaire,Média,0,Fumbua (Simples),1
+35,Sexta,Frango,Benguela,Média,0,Calulu de Peixe Fresco,1
+36,Domingo,Feijão,Huíla,Média,1,Guisado de Cabrito (Simples),1
+37,Terça,Peixe,Luanda,Média,0,Muamba de Galinha,1
+38,Sábado,Carne Vaca,Malanje,Média,1,Marrabenta de Peixe,1
+39,Quarta,Frango,Zaire,Média,0,Fumbua (Simples),1
+40,Quinta,Carne Vaca,Benguela,Baixa,0,Feijão de Óleo de Palma,0
+41,Segunda,Miúdos,Huíla,Baixa,0,Funge com Kizaca,1
+42,Sexta,Peixe,Luanda,Baixa,0,Feijão de Óleo de Palma,0
+43,Domingo,Feijão,Zaire,Alta,1,Fumbua (Tradicional),1
+44,Terça,Frango,Malanje,Média,0,Marrabenta de Peixe,1
+45,Quarta,Peixe,Benguela,Média,0,Muamba de Galinha,1
+46,Sábado,Carne Vaca,Huíla,Alta,1,Calulu de Peixe Seco,1
+47,Quinta,Frango,Luanda,Média,0,Muamba de Galinha,1
+48,Segunda,Carne Seca,Zaire,Média,0,Fumbua (Simples),1
+49,Sexta,Peixe,Malanje,Baixa,0,Funge com Quizaca,1
+50,Domingo,Carne Vaca,Luanda,Alta,1,Mufete,0
+51,Terça,Feijão,Huíla,Baixa,0,Funge com Kizaca,1
+52,Sábado,Frango,Benguela,Média,1,Calulu de Peixe Fresco,1
+53,Quarta,Peixe,Malanje,Média,0,Marrabenta de Peixe,1
+54,Quinta,Miúdos,Luanda,Baixa,0,Feijão de Óleo de Palma,0
+55,Segunda,Carne Vaca,Zaire,Média,0,Funge com Quizaca,1
+56,Sexta,Frango,Huíla,Média,0,Muamba de Galinha,1
+57,Domingo,Feijão,Zaire,Alta,1,Fumbua (Tradicional),1
+58,Terça,Peixe,Benguela,Baixa,0,Feijão de Óleo de Palma,0
+59,Sábado,Carne Seca,Malanje,Média,1,Marrabenta de Peixe,1
+60,Quarta,Frango,Luanda,Média,0,Calulu de Peixe Seco,1
+61,Quinta,Feijão,Zaire,Média,0,Fumbua (Simples),1
+62,Segunda,Carne Vaca,Huíla,Média,0,Guisado de Cabrito (Simples),1
+63,Sexta,Miúdos,Benguela,Baixa,0,Feijão de Óleo de Palma,0
+64,Domingo,Frango,Luanda,Alta,1,Mufete,0
+65,Terça,Peixe,Malanje,Baixa,0,Funge com Quizaca,1
+66,Sábado,Carne Vaca,Zaire,Média,1,Fumbua (Simples),1
+67,Quarta,Feijão,Huíla,Média,0,Muamba de Galinha,1
+68,Quinta,Carne Seca,Benguela,Média,0,Calulu de Peixe Fresco,1
+69,Segunda,Frango,Luanda,Baixa,0,Feijão de Óleo de Palma,0
+70,Sexta,Peixe,Zaire,Média,0,Fumbua (Simples),1
+71,Domingo,Carne Vaca,Malanje,Alta,1,Moamba de Ginguba (Amendoim),1
+72,Terça,Feijão,Huíla,Média,0,Guisado de Cabrito (Simples),1
+73,Sábado,Frango,Luanda,Alta,1,Mufete,0
+74,Quarta,Carne Vaca,Benguela,Baixa,0,Feijão de Óleo de Palma,0
+75,Quinta,Peixe,Malanje,Média,0,Marrabenta de Peixe,1
+76,Segunda,Miúdos,Zaire,Média,0,Funge com Quizaca,1
+77,Sexta,Frango,Huíla,Baixa,0,Funge com Kizaca,1
+78,Domingo,Peixe,Benguela,Alta,1,Caldeirada de Marisco,0
+79,Terça,Carne Seca,Luanda,Média,0,Calulu de Peixe Seco,1
+80,Sábado,Carne Vaca,Zaire,Alta,1,Fumbua (Tradicional),1
+81,Quarta,Feijão,Malanje,Baixa,0,Funge com Quizaca,1
+82,Quinta,Frango,Huíla,Média,0,Muamba de Galinha,1
+83,Segunda,Carne Vaca,Benguela,Média,0,Calulu de Peixe Fresco,1
+84,Sexta,Miúdos,Luanda,Baixa,0,Arroz de Tomate com Bife,0
+85,Domingo,Frango,Zaire,Média,1,Fumbua (Simples),1
+86,Terça,Peixe,Malanje,Média,0,Marrabenta de Peixe,1
+87,Sábado,Carne Seca,Luanda,Alta,1,Mufete,0
+88,Quarta,Frango,Benguela,Média,0,Muamba de Galinha,1
+89,Quinta,Feijão,Huíla,Baixa,0,Funge com Kizaca,1
+90,Segunda,Carne Vaca,Zaire,Média,0,Funge com Quizaca,1
+91,Sexta,Peixe,Malanje,Baixa,0,Funge com Quizaca,1
+92,Domingo,Frango,Benguela,Alta,1,Caldeirada de Marisco,0
+93,Terça,Feijão,Luanda,Baixa,0,Feijão de Óleo de Palma,0
+94,Sábado,Carne Vaca,Huíla,Alta,1,Guisado de Cabrito (Elaborado),1
+95,Quarta,Miúdos,Zaire,Média,0,Fumbua (Simples),1
+96,Quinta,Peixe,Luanda,Média,0,Calulu de Peixe Seco,1
+97,Segunda,Frango,Malanje,Média,0,Marrabenta de Peixe,1
+98,Sexta,Carne Seca,Benguela,Média,0,Calulu de Peixe Fresco,1
+99,Domingo,Feijão,Zaire,Alta,1,Fumbua (Tradicional),1
+100,Terça,Carne Vaca,Huíla,Baixa,0,Funge com Kizaca,1

@@ -1,0 +1,55 @@
+As três principais partes para o Algoritmo de recomendação:
+
+Base de Dados de Pratos Angolanos (Data Store)
+ Lógica de Recomendação (O Algoritmo)
+ 
+ 
+ 
+ 
+ Lógica de Recomendação (O Algoritmo)
+
+Esta é a parte central. O algoritmo deve tentar imitar a forma como se planeia uma refeição em Angola.
+
+Regras Básicas para Jantar (Dias de Semana):
+
+    Priorizar pratos de Complexidade Baixa a Média. Pratos que demoram muito (como a tradicional Muamba ou Calulu mais demorados) podem ser mais adequados para o fim de semana.
+
+    Diversificar o Ingrediente Principal. Se ontem foi frango, hoje sugira peixe ou feijão.
+
+    Seguir a Tradição: Pratos como Mufete são tradicionalmente associados ao Sábado ou Domingo. O seu sistema pode "reservar" estes pratos para o fim de semana.
+
+    Incluir o Básico: O Funge é o pilar. Recomende o prato principal e o acompanhamento de funge (milho ou bombó) ou arroz.
+
+Exemplo de Fluxo de Recomendação:
+
+    Input: Dia da semana (Quarta-feira) e Ingredientes/Proteínas Disponíveis (Frango, Peixe, Feijão).
+
+    Filtro: Eliminar pratos de "Complexidade Alta" e pratos marcados como "Fim de Semana".
+
+    Seleção: Escolher um prato com o Ingrediente Principal que não foi usado ontem.
+
+        Sugestão de Quarta-feira (Rápido): Feijão de Óleo de Palma com Arroz e um peixe grelhado simples.
+
+    Output: Devolver o prato principal e os seus acompanhamentos.
+
+3. Interface de Comunicação (APIs)
+
+O microserviço deve expor pelo menos um endpoint (ponto de acesso) para que a aplicação de vendas o possa contactar.
+
+GET /api/recomendacao/jantar/{dia-semana}
+
+Exemplo de Resposta (JSON):
+JSON
+
+{
+  "dia": "Quarta-feira",
+  "refeicao": "Jantar",
+  "prato_principal": "Muamba de Galinha",
+  "acompanhamentos": [
+    "Funge de Bombó",
+    "Arroz Simples",
+    "Picante (Gindungo)"
+  ],
+  "nota": "Um clássico angolano, delicioso e reconfortante."
+}
+
