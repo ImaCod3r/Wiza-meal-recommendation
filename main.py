@@ -3,12 +3,12 @@ from pydantic import BaseModel
 import joblib
 import pandas as pd
 
-modelo = joblib.load("modelo_pratos.pkl")
-encoder_dia_semana = joblib.load("encoder_dia_semana.pkl")
-encoder_complexidade = joblib.load("encoder_complexidade.pkl")
-encoder_proteina = joblib.load("encoder_proteina.pkl")
-encoder_naturalidade = joblib.load("encoder_naturalidade.pkl")
-encoder_target = joblib.load("encoder_target.pkl")
+modelo = joblib.load("./model/modelo_pratos.pkl")
+encoder_dia_semana = joblib.load("./model/encoder_dia_semana.pkl")
+encoder_complexidade = joblib.load("./model/encoder_complexidade.pkl")
+encoder_proteina = joblib.load("./model/encoder_proteina.pkl")
+encoder_naturalidade = joblib.load("./model/encoder_naturalidade.pkl")
+encoder_target = joblib.load("./model/encoder_target.pkl")
 
 app = FastAPI()
 
