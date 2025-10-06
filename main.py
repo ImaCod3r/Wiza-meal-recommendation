@@ -20,6 +20,10 @@ class PratoInput(BaseModel):
     PROTEINA_ONTEM: str
     NATURALIDADE: str
 
+@app.get("/")
+def home():
+    return {"message": "Bem vindo ao Wiza meal recommendation"}
+
 @app.post("/recomendar")
 def recomendar(dados: PratoInput):
     
